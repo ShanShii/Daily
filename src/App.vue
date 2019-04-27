@@ -20,7 +20,7 @@
                             :key="item.id"
                             @get-artical="getArtical(item)"></Item>
                 </div>
-                <a class="load-more animated bounceInDown" 
+                <a class="load-more animated bounceInUp" 
                    @click="loadMore($event)">加载更多...</a>
             </template>
             <!-- 主题日报list 略 -->
