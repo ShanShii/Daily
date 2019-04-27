@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+### 运行本地代理获取文章等信息
+```
+node proxy.js
+```
 
 ### Compiles and hot-reloads for development
 ```
